@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "global": "^4.4.0",
-    "gmammadova-palindrome": "^0.1.0",
+    "gmammadova-palindrome": "^0.2.0",
     "mocha": "^8.3.2"
   }
 }
